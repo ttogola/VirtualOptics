@@ -1,0 +1,9 @@
+
+A lens is a specific type of refractive zone that converges
+
+light rays towards a specific point called the focal point.
+
+This phenomenon can also be represented by Snell's Law
+
+of refraction.
+

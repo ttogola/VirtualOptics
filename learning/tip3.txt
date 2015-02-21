@@ -1,0 +1,5 @@
+Increase the index 
+of a refractive zone 
+to make the rays 
+that go through it 
+"bend more"

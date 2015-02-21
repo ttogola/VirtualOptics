@@ -1,0 +1,14 @@
+
+
+When a beam of light (white beam) strikes a mirror, the mirror 
+
+reflects the light beam, so that the reflected light makes an 
+
+angle with the normal (red beam) that is equal to the angle of 
+
+the incident ray. This reflection phenomenon is represented by 
+
+this equation:       (Theta)'1 = (Theta)1	
+
+where (Theta) is the angle between the ray and the normal line.
+

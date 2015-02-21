@@ -1,0 +1,10 @@
+
+A refractive zone is a zone of material that has a specific
+
+density. The denser the material, the more the incident ray 
+
+is bent when it enters it. This property is determined by
+
+the refraction index, and produces refraction.
+
+Snell's Law: 	n1Sin(theta1) = n2Sin(theta2)

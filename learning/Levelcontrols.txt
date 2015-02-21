@@ -1,0 +1,24 @@
+
+Level Controls:
+
+*not all of these options are available for all components in all levels
+
+- double left-click to select a component
+- drag a component to move it around
+- mouse wheel to rotate components
+- right click marker to reach component out of sight
+- press Enter when a ray is selected to turn it on/off
+- Left/Right arrow keys to rotate components with bigger angle intervals
+- Up/Down arrow keys to resize selected components
+- Backspace to delete selected component
+
+while Shift key is down:
+- Up/Down arrow keys toset radius of selected lens or curved mirror
+- drag the lower right corner of refractive zone to resize it
+
+while CTRL key is down:
+- roll the mouse wheel to zoom in/out temporarily
+- drag anywhere on the panel to move the view
+
+while alt key is down:
+- drag the mouse to select multiple components at once

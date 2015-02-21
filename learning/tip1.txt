@@ -1,0 +1,9 @@
+Select the ray by 
+double-clicking on 
+its source (black dot).
+
+Try to reflect it 
+on the plane mirror 
+to avoid the obstacle 
+and hit the target 
+(coloured dot).

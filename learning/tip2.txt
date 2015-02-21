@@ -1,0 +1,4 @@
+A light ray can
+bounce mutliple 
+times on a curved 
+mirror...

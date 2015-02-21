@@ -1,0 +1,26 @@
+
+LAB CONTROLS:
+
+- double left-click to select a component
+- drag a component to move it around
+- mouse wheel to rotate components
+- right click marker to reach component out of sight
+- press Enter when a ray is selected to turn it on/off
+- Left/Right arrow keys to rotate components with bigger angle intervals
+- Up/Down arrow keys to resize selected components
+- Backspace to delete selected component
+
+- press D to change the convergence of a curved mirror
+- press M to prevent selected components from being moved
+
+
+while Shift key is down:
+- Up/Down arrow keys toset radius of selected lens or curved mirror
+- drag the lower right corner of an obstacle or a refractive zone to resize it
+
+while CTRL key is down:
+- roll the mouse wheel to zoom in/out temporarily
+- drag anywhere on the panel to move the view
+
+while alt key is down:
+- drag the mouse to select multiple components at once
