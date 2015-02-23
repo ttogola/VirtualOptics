@@ -57,12 +57,17 @@ Issues and TODOs
 ---------------------
 
 - The jar file only works in Windows and cannot be moved. We need a standalone jar which can be run on any system (will do soon)
+
 - In Ubuntu (run from Eclipse for now), the alt key is reserved for operating system functionalities and hides our features. Also
 	some images won't display (use getResource instead of new File(...))
+
 - Some minor glitches occur from time to time where light rays will pass through objects. Issue with intersection methods, fix this.
+
 - We handle object collisions with bounding boxes (shown in yellow dotted lines). When the user causes objects to overlap, the 
 	program will try to reposition objects to avoid the issue, and load a backup file if it fails at this repeatedly. Find a better
 	way to handle this as it may cause the application to crash.
+
 - Change the tag "Storyline" to "Game" or "Challenge" maybe. The story is no longer relevant.
+
 - One can run LStest.java and select the progress file from the pop-up window to reset the user level progress to 1. Provided an 
 	easier way for the user to do this
