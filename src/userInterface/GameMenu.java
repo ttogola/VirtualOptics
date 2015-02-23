@@ -184,26 +184,31 @@ public class GameMenu extends JLabel{
             		if(!once){
 	            		once = true;
 	            		JLabel homeLabel = new JLabel(new ImageIcon(homeIcon));
+	            		homeLabel.setToolTipText("Go to Home Page");
 	            		addMouseListener("goMainMenu", homeLabel);
 	            		p.add(homeLabel);
 	            		homeLabel.setBounds(90, 5, 75, 75);
 	            		
 	            		JLabel clearLabel = new JLabel(new ImageIcon(newIcon));
+	            		clearLabel.setToolTipText("Reset/Clear Optical Setup");
 	            		addMouseListener("clearAll", clearLabel);
 	            		p.add(clearLabel);
 	            		clearLabel.setBounds(15, 85, 75, 75);
 	            		
 	            		JLabel saveLabel = new JLabel(new ImageIcon(saveIcon));
+	            		saveLabel.setToolTipText("Save Optical Setup");
 	            		addMouseListener("save", saveLabel);
 	            		p.add(saveLabel);
 	            		saveLabel.setBounds(160, 85, 75, 75);
 	            		
 	            		JLabel loadLabel = new JLabel(new ImageIcon(loadIcon));
+	            		loadLabel.setToolTipText("Load an Optical Setup");
 	            		addMouseListener("load", loadLabel);
 	            		p.add(loadLabel);
 	            		loadLabel.setBounds(90, 170, 75, 75);
 	            		
 	            		JLabel controlsLabel = new JLabel(new ImageIcon(controlsIcon));
+	            		controlsLabel.setToolTipText("Help/See Controls");
 	            		addMouseListener("controls", controlsLabel);
 	            		p.add(controlsLabel);
 	            		controlsLabel.setBounds(90, 88, 75, 75);
@@ -218,21 +223,25 @@ public class GameMenu extends JLabel{
             		if(!once){
                 		once = true;
                 		JLabel homeLabel = new JLabel(new ImageIcon(homeIcon));
+                		homeLabel.setToolTipText("Go to Home Page");
                 		addMouseListener("goMainMenu", homeLabel);
                 		p.add(homeLabel);
                 		homeLabel.setBounds(90, 5, 75, 75);
                 		
                 		JLabel ladderLabel = new JLabel(new ImageIcon(ladderIcon));
+                		ladderLabel.setToolTipText("Go to Level Selection");
                 		addMouseListener("selectLevel", ladderLabel);
                 		p.add(ladderLabel);
                 		ladderLabel.setBounds(160, 85, 75, 75);
                 		
                 		JLabel resetLabel = new JLabel(new ImageIcon(resetIcon));
+                		resetLabel.setToolTipText("Restart Level");
                 		addMouseListener("resetLevel", resetLabel);
                 		p.add(resetLabel);
                 		resetLabel.setBounds(90, 170, 75, 75);
                 		
                 		JLabel controlsLabel = new JLabel(new ImageIcon(controlsIcon));
+                		controlsLabel.setToolTipText("Help/See Controls");
 	            		addMouseListener("controls", controlsLabel);
 	            		p.add(controlsLabel);
 	            		controlsLabel.setBounds(15, 85, 75, 75);
