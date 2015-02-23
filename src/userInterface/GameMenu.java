@@ -316,14 +316,14 @@ public class GameMenu extends JLabel{
 		//0 = yes, 1 = no, 2 = cancel
 		if(gameMode == "Lab"){
 			Object[] options = {"Yes", "No", "Cancel"};
-			return JOptionPane.showOptionDialog(frame, "Would you like to save your progress before you leave?", "Leave Alert", 
+			return JOptionPane.showOptionDialog(frame, "Would you like to save your optical setup before proceeding?", "Alert", 
 				JOptionPane.YES_NO_CANCEL_OPTION, JOptionPane.WARNING_MESSAGE,	null, options, options[2]);
 		}
 		
 		//0 = yes, 1 = no
 		else{
 			Object[] options = {"Yes", "No"};
-			return JOptionPane.showOptionDialog(frame, "All unsaved progress will be lost.\nAre you sure you want to leave?", "Leave Alert", 
+			return JOptionPane.showOptionDialog(frame, "Your progress in this level will be lost.\nAre you sure you want to proceed?", "Alert", 
 				JOptionPane.YES_NO_CANCEL_OPTION, JOptionPane.WARNING_MESSAGE,	null, options, options[1]);
 		}
 	}
@@ -387,12 +387,12 @@ public class GameMenu extends JLabel{
 	void goMainMenu(String gameMode){
 		int alert = leaveAlert(gameMode);
 		// goes to main menu if alert passes in Lab
-		if(gameMode == "Lab" && alert == yes){
+		if(gameMode == "Lab" && alert == no){
 			MainFrame.changePanel(0, 0);			
 		}
 		
 		//does pass if user cancels save in Lab
-		else if(gameMode == "Lab" && alert == no){
+		else if(gameMode == "Lab" && alert == yes){
 			save(gameMode);
 			if(secondResponseClicked.equals("cancel")){
 				return;

@@ -209,7 +209,7 @@ public class Level extends Lab {
 	 */
 	@Override
 	void levelCompleted(int index) {
-		//put rounded panel instead of dialog box
+		//TODO: put rounded panel instead of dialog box
 		targetHit = index;
 		pauseTimer.start();
 	}
