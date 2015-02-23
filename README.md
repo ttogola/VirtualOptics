@@ -69,5 +69,5 @@ Issues and TODOs
 
 - Change the tag "Storyline" to "Game" or "Challenge" maybe. The story is no longer relevant.
 
-- One can run LStest.java and select the progress file from the pop-up window to reset the user level progress to 1. Provided an 
-	easier way for the user to do this
+- One can run LStest.java in the userInterface package and select the progress file from the pop-up window to reset the user level 
+	progress to 1. Provide an easier way for the user to do this.

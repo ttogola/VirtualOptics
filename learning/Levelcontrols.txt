@@ -13,7 +13,7 @@ Level Controls:
 - Backspace to delete selected component
 
 while Shift key is down:
-- Up/Down arrow keys toset radius of selected lens or curved mirror
+- Up/Down arrow keys to set radius of selected lens or curved mirror
 - drag the lower right corner of refractive zone to resize it
 
 while CTRL key is down:

@@ -12,10 +12,14 @@ LAB CONTROLS:
 
 - press D to change the convergence of a selected curved mirror
 - press M to prevent selected components from being moved
+- press C when an object is selected to change its color.
+   A color chooser appears (selected objects are always
+   yellow, unselect by double clicking aside to see the
+   new color).
 
 
 while Shift key is down:
-- Up/Down arrow keys toset radius of selected lens or curved mirror
+- Up/Down arrow keys to set radius of selected lens or curved mirror
 - drag the lower right corner of an obstacle or a refractive zone to resize it
 
 while CTRL key is down:
