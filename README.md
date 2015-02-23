@@ -71,3 +71,6 @@ Issues and TODOs
 
 - One can run LStest.java in the userInterface package and select the progress file from the pop-up window to reset the user level 
 	progress to 1. Provide an easier way for the user to do this.
+
+- When a marker is at the top left corner (where the in-game menu icon is located), it cannot be activated. The menu pops-up. Fix 
+	this.
