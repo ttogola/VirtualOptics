@@ -10,7 +10,7 @@ LAB CONTROLS:
 - Up/Down arrow keys to resize selected components
 - Backspace to delete selected component
 
-- press D to change the convergence of a curved mirror
+- press D to change the convergence of a selected curved mirror
 - press M to prevent selected components from being moved
 
 
@@ -22,5 +22,5 @@ while CTRL key is down:
 - roll the mouse wheel to zoom in/out temporarily
 - drag anywhere on the panel to move the view
 
-while alt key is down:
+while ALT key is down:
 - drag the mouse to select multiple components at once
