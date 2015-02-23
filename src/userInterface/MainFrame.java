@@ -61,7 +61,7 @@ public class MainFrame extends JApplet {
 			@Override
 			public void run() {
 				//create jframe
-				JFrame mainFrame = new JFrame("RGB Relic");
+				JFrame mainFrame = new JFrame("Virtual Optics");
 				//put application in jframe to run in form of application
 				mainFrame.add(frame);
 				//configure dimensions, visibility of frame
