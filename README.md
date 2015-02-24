@@ -56,7 +56,7 @@ containing the objects on the right edge of the lab window.
 Issues and TODOs
 ---------------------
 
-- The jar file only works in Windows and cannot be moved. We need a standalone jar which can be run on any system (will do soon)
+- The jar file does not work in Ubuntu and cannot be moved. We need a standalone jar which can also run on Linux (will fix soon)
 
 - In Ubuntu (run from Eclipse for now), the alt key is reserved for operating system functionalities and hides our features. Also
 	some images won't display (use getResource instead of new File(...))
