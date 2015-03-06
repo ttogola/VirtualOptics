@@ -15,7 +15,7 @@ Virtual Optics is an optical simulation application developed in Java. It was cr
 where the aim was to build an educative application about a particular science topic. We chose to do it on the physics of optics.
 
 Our goal was to produce an application that gives more freedom and more features than your typical optics bench applet that
-restrains the user to one axis, few optical objects, and no ability to customizes those objects. Virtual Optics offers an infinite
+restrains the user to one axis, few optical objects, and no ability to customize those objects. Virtual Optics offers an infinite
 two dimensional plane, three modes (StoryLine, Learning Center and Laboratory), the ability to save/load optical setups, the 
 ability to use many light sources at once, and eight types of objects which can be rotated, resized, colored and more. 
 Please give it a try!
