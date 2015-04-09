@@ -1,7 +1,7 @@
 Virtual Optics
 ====================
 
-[Virtual Optics in action!] (images/Snapshot.png)
+[Virtual Optics in action!] (images/Snapshot.PNG)
 
 Contents
 --------------------
