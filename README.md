@@ -2,6 +2,7 @@ Virtual Optics
 ====================
 
 [Virtual Optics in action!] (images/Snapshot.PNG)
+![Virtual Optics in action!](images/Snapshot.PNG?raw=true "Virtual Optics in action!")
 
 Contents
 --------------------
