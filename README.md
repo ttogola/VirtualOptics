@@ -3,6 +3,12 @@ Virtual Optics
 
 ![Virtual Optics in action!](images/Snapshot.PNG?raw=true "Virtual Optics in action!")
 
+![](Demos/WallDemo.gif?raw=true)
+![](Demos/MirrorDemo.gif?raw=true)
+![](Demos/CurvedDemo.gif?raw=true)
+![](Demos/LensDemo.gif?raw=true)
+![](Demos/ZoneDemo.gif?raw=true)
+
 Contents
 --------------------
 
